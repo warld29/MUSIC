@@ -509,6 +509,20 @@ h3.my-profession{
     background: var(--skin-color);
 
 }
+.service .service-item .service-item-inner .fa-itunes{
+    font-size: 40px;
+    line-height: 60px;
+    color: rgb(202, 71, 71);
+    transition: all 0.3s ease;
+}
+
+.service .service-item .service-item-inner .fa-spotify{
+    color: rgb(77, 160, 77);
+}
+
+.service .service-item .service-item-inner .fa-youtube{
+    color: rgb(204, 14, 14);
+}
 
 .service .service-item .service-item-inner:hover .icon .fa-brands{
     font-size: 25px;
